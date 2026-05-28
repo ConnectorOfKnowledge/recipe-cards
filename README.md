@@ -8,10 +8,10 @@ A single-page recipe card. Dairy-free, one-pot, slow-cooked in a multi-cooker.
 
 Place the following files in `images/` and they will appear automatically:
 
-- `images/hero.jpg` — wide hero shot (16:10)
-- `images/accent.jpg` — square accent shot (1:1)
+- `images/hero.jpg` (wide hero, 16:10)
+- `images/accent.jpg` (square accent, 1:1)
 
-If either file is missing, a placeholder block shows in its slot — the rest of the card stays intact.
+If either file is missing, a placeholder block shows in its slot. The rest of the card stays intact.
 
 ## Stack
 
